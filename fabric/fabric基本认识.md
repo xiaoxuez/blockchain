@@ -10,7 +10,7 @@
 
 
 
-![宏观图](C:\Users\YX\Desktop\note\fabric_macro.jpg)
+![宏观图](./fabric_macro.jpg)
 
 上图为fabric的基本结构图，以下解释各名词含义。
 
@@ -65,7 +65,7 @@
 
 交易过程可如下图
 
-![交易过程](C:\Users\YX\Desktop\note\fabric_peer.jpg)
+![交易过程](fabric_peer.jpg)
 
 
 
